@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C13C08E2-EB31-437F-9BF2-7E150EB59B87}|WebApiSolution\\WebApiSolution.csproj|c:\\users\\irakl\\desktop\\dotnet\\webapisolution\\webapisolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13C08E2-EB31-437F-9BF2-7E150EB59B87}|WebApiSolution\\WebApiSolution.csproj|solutionrelative:webapisolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13C08E2-EB31-437F-9BF2-7E150EB59B87}|WebApiSolution\\WebApiSolution.csproj|c:\\users\\irakl\\desktop\\dotnet\\webapisolution\\webapisolution\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13C08E2-EB31-437F-9BF2-7E150EB59B87}|WebApiSolution\\WebApiSolution.csproj|solutionrelative:webapisolution\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8E09E-FF86-42CB-BC4D-C3BFBA6BEC7F}|ClassLibrary2\\Services.csproj|c:\\users\\irakl\\desktop\\dotnet\\webapisolution\\classlibrary2\\implementations\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8E09E-FF86-42CB-BC4D-C3BFBA6BEC7F}|ClassLibrary2\\Services.csproj|solutionrelative:classlibrary2\\implementations\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8E09E-FF86-42CB-BC4D-C3BFBA6BEC7F}|ClassLibrary2\\Services.csproj|c:\\users\\irakl\\desktop\\dotnet\\webapisolution\\classlibrary2\\abstractions\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8E09E-FF86-42CB-BC4D-C3BFBA6BEC7F}|ClassLibrary2\\Services.csproj|solutionrelative:classlibrary2\\abstractions\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3A220F-15C5-4DF6-9CD0-9E87BEAAA821}|Domain\\Domain.csproj|c:\\users\\irakl\\desktop\\dotnet\\webapisolution\\domain\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3A220F-15C5-4DF6-9CD0-9E87BEAAA821}|Domain\\Domain.csproj|solutionrelative:domain\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B274C50A-A123-4A90-BDA0-E1C2EFA2D472}|ClassLibrary1\\Data.csproj|c:\\users\\irakl\\desktop\\dotnet\\webapisolution\\classlibrary1\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B274C50A-A123-4A90-BDA0-E1C2EFA2D472}|ClassLibrary1\\Data.csproj|solutionrelative:classlibrary1\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B274C50A-A123-4A90-BDA0-E1C2EFA2D472}|ClassLibrary1\\Data.csproj|c:\\users\\irakl\\desktop\\dotnet\\webapisolution\\classlibrary1\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B274C50A-A123-4A90-BDA0-E1C2EFA2D472}|ClassLibrary1\\Data.csproj|solutionrelative:classlibrary1\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\WebApiSolution\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\WebApiSolution\\Program.cs",
+              "RelativeToolTip": "WebApiSolution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:58:04.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\WebApiSolution\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApiSolution\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\WebApiSolution\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApiSolution\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:59:10.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\ClassLibrary2\\Implementations\\ProductsService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\Implementations\\ProductsService.cs",
+              "ToolTip": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\ClassLibrary2\\Implementations\\ProductsService.cs",
+              "RelativeToolTip": "ClassLibrary2\\Implementations\\ProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:27:34.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\ClassLibrary2\\Abstractions\\IProductsService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\Abstractions\\IProductsService.cs",
+              "ToolTip": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\ClassLibrary2\\Abstractions\\IProductsService.cs",
+              "RelativeToolTip": "ClassLibrary2\\Abstractions\\IProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:21:24.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\ClassLibrary1\\Data.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Data.csproj",
+              "ToolTip": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\ClassLibrary1\\Data.csproj",
+              "RelativeToolTip": "ClassLibrary1\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T19:56:35.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\Domain\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "Domain\\CategoryModel.cs",
+              "ToolTip": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\Domain\\CategoryModel.cs",
+              "RelativeToolTip": "Domain\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:59:25.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\ClassLibrary1\\DbContext.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\DbContext.cs",
+              "ToolTip": "C:\\Users\\irakl\\Desktop\\dotnet\\WebApiSolution\\ClassLibrary1\\DbContext.cs",
+              "RelativeToolTip": "ClassLibrary1\\DbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:54:45.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
